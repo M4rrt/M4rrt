@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+### I'm currently working on an agency as a web developer
+### currently learning ReactJS with the book: The road to React
+### fun fact mybe I'm an impostor  who knows ???
 
 <!--
 **M4rrt/M4rrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
