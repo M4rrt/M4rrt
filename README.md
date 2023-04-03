@@ -1,10 +1,12 @@
 # Hi there 👋
 
-### I'm currently working on an agency as a web developer
+### I'm currently working on an agency as a web developer (2 years)
 
-### currently learning ReactJS with the book: The road to React
+### currently I'm taking a course about full React development
 
-### fun fact mybe I'm an impostor  who knows ??? *Am I the slippers guy ?*
+### Is WTF/M the best way to measure a code quality *?*
+
+#### I like python but I'm not good at all with It, trying to learn more about JS and to not dislike PHP
 
 <!--
 **M4rrt/M4rrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
