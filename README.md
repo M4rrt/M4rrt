@@ -1,12 +1,12 @@
 # Hi there 👋
 
-### I'm currently working on an agency as a web developer (2 years)
-
-### currently I'm taking a course about full React development
+### I'm currently working as Front-End React Developer
 
 ### Is WTF/M the best way to measure a code quality *?*
 
-#### I like python but I'm not good at all with It, trying to learn more about JS and to not dislike PHP
+### Every experience is welcome. Tell me if you have an idea about things i do
+
+#### I like python but I'm not good at all with It, trying to not dislike PHP
 
 <!--
 **M4rrt/M4rrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
