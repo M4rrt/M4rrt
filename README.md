@@ -6,7 +6,11 @@
 
 ### Every experience is welcome. Tell me if you have an idea about things i do
 
-#### I like python but I'm not good at all with It, trying to not dislike PHP
+#### I like JavaScript with TypeScript it works really better
+
+##### I'm currently working with React and Clojure
+
+##### I'm reading "Grokking Algorithms" 
 
 <!--
 **M4rrt/M4rrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
