@@ -12,11 +12,8 @@
 
 ##### I'm reading:
 
-📗Grokking Algorithms 
+📕 Software architecture the hard parts
 
-📕Fundamentals of Software Architecture
-
-📘Domain-Driven Design
 <!--
 **M4rrt/M4rrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
